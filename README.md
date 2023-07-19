@@ -8,6 +8,6 @@ HGAN/data
 ## Run
 Enter path RSSR/model/
   ```
-  python MoDo_HGAN_NASDAQ.py
-  python MoDo_HGAN_NYSE.py
+  python HGAN_NASDAQ.py
+  python HGAN_NYSE.py
   ```
