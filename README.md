@@ -6,7 +6,7 @@ Python 3.6, Tensorflow 1.9.0, numpy 1.19.2
 ## Dataset and Preprocessing
 HGAN/data 
 ## Run
-Enter path RSSR/model/
+Enter path HGAN/model/
   ```
   python HGAN_NASDAQ.py
   python HGAN_NYSE.py
